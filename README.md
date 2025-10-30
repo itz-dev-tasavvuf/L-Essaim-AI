@@ -28,9 +28,10 @@
   <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?color=f34b7d&style=for-the-badge" alt="License">
   </a>
-  <a href="https://discord.gg/YOUR_INVITE_CODE">
-    <img src="https://img.shields.io/discord/YOUR_SERVER_ID?label=Discord&logo=discord&color=5865F2&style=for-the-badge" alt="Discord">
-  </a>
+  <a href="https://discord.gg/yTmkcbJu">
+  <img src="https://img.shields.io/discord/1433374217948237938?label=Discord&logo=discord&color=5865F2&style=for-the-badge" alt="Discord">
+</a>
+
 </p>
 </div>
 
@@ -98,9 +99,12 @@ This is the set of tools we're starting with for **Phase 1**. This list will gro
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+ <p align="center">
+  <a href="https://discord.gg/yTmkcbJu" target="_blank">
+    <img src="https://img.shields.io/discord/1433374217948237938?label=Join%20our%20Discord&logo=discord&color=5865F2&style=for-the-badge" alt="Discord">
   </a>
+</p>
+
 </p>
 
 ## 🤝 How You Can Contribute (Join the `Civitas`!)
